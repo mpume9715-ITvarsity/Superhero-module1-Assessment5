@@ -1,0 +1,31 @@
+.gallery{
+    width: 35%
+}
+
+table{ font-family: Helvitica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: focus;
+    border-color:chocolate;
+    
+}
+    
+th{
+font-weight: 800
+}
+
+h1{
+    color:cadetblue;
+    font-family: sans-serif;
+    font-size: 50px ;
+    text-align: right;
+}
+
+h2{
+    font-family: cursive;
+    font-size: 15px;
+    font-variant-position: sub;
+    text-align: left;
+        
+}
+
